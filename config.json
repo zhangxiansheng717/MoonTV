@@ -85,5 +85,21 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
+    "豪华": {
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "豪华资源"
+    }
+    "索尼": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼资源"
+    }
+    "牛牛": {
+      "api": "https://api.niuniuzy.me/api.php/provide/vod",
+      "name": "牛牛资源"
+    }
+    "麒麟": {
+      "api": "https://www.qilinzyz.com/api.php/provide/vod",
+      "name": "麒麟资源"
+    }    
   }
 }
